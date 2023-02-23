@@ -6,5 +6,6 @@ I write programs that are maintainable, readable, and adaptable by following bes
 
 **How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
 
+As a computer scientist, I approach problems and try to break them down into smaller more achievable goals. Building the initial CRUD module helped to build a larger project and slowly incorporate more pieces into it. In the future to create databases I now know how to be able to read from files and use mongodb to help build a database that is easy to use. There are easy ways to filter and sort options of everything in the database.
 
 **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
