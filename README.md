@@ -9,3 +9,5 @@ I write programs that are maintainable, readable, and adaptable by following bes
 As a computer scientist, I approach problems and try to break them down into smaller more achievable goals. Building the initial CRUD module helped to build a larger project and slowly incorporate more pieces into it. In the future to create databases I now know how to be able to read from files and use mongodb to help build a database that is easy to use. There are easy ways to filter and sort options of everything in the database.
 
 **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+
+Computer scientists are responsible for many aspects of software development and testing. They are the problem solvers responsible for making sure everything works as intended. My work on this project would help a company do their work better by making it more efficient. Being able to quickly sort through their database will improve the time they take to work with it and make it a more pleasant experience.
